@@ -1,0 +1,2 @@
+# anticheat
+esx_anticheat
